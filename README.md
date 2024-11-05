@@ -29,12 +29,18 @@ Smart Agriculture Farming is a web application developed to assist farmers in ma
 ## Installation and Setup
 ### To run this project locally, follow these steps:
 1.	Clone the Repository:
+```
 git clone https://github.com/myself-nahid/Smart-Agriculture-Farming.git
 cd Smart-Agriculture-Farming
+```
 2.	Install Dependencies: Install all required packages listed in requirements.txt.
+```
 pip install -r requirements.txt
+```
 3.	Run the Application: Start the Flask server.
+```
 python app.py
+```
 4.	Access the Application: Open your web browser and go to http://127.0.0.1:5000 to use the application.
 Usage
 -	Crop Recommendation: Enter the soil and climate data to receive crop suggestions.
