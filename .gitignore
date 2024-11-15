@@ -1,2 +1,3 @@
 notebooks/.ipynb_checkpoints/
 disease-data/
+__pycache__/
