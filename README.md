@@ -1,10 +1,6 @@
 # Smart Agriculture Farming 🌿
 
-## Project Overview
-Smart Agriculture Farming is a web application developed to assist farmers in making informed agricultural decisions using machine learning and deep learning. The project is divided into three key modules:
--	**Crop Recommendation:** Suggests the best crop to grow based on environmental and soil conditions.
--	**Fertilizer Recommendation:** Recommends optimal fertilizer combinations based on crop requirements and soil properties.
--	**Crop Disease Prediction:** Detects and identifies crop diseases from images, helping farmers take timely actions.
+#### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
   
 ## MOTIVATION 💪
 - Farming is one of the major sectors that influences a country’s economic growth. 
