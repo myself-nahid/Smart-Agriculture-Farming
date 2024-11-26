@@ -1,4 +1,4 @@
-# Smart Agriculture Farming
+# Smart Agriculture Farming 🌿
 
 ## Project Overview
 Smart Agriculture Farming is a web application developed to assist farmers in making informed agricultural decisions using machine learning and deep learning. The project is divided into three key modules:
@@ -6,10 +6,18 @@ Smart Agriculture Farming is a web application developed to assist farmers in ma
 -	**Fertilizer Recommendation:** Recommends optimal fertilizer combinations based on crop requirements and soil properties.
 -	**Crop Disease Prediction:** Detects and identifies crop diseases from images, helping farmers take timely actions.
   
-## Features
--	Crop Recommendation: Uses machine learning to suggest crops suitable for specific conditions.
--	Fertilizer Recommendation: Suggests appropriate fertilizers for optimal crop growth.
--	Crop Disease Prediction: Utilizes deep learning to analyze images of crops and detect diseases, offering quick and reliable diagnoses.
+## MOTIVATION 💪
+- Farming is one of the major sectors that influences a country’s economic growth. 
+
+- In country like Bangladesh, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield. 
+
+- In this project, I present a website in which the following applications are implemented; Crop recommendation, Fertilizer recommendation and Plant disease prediction, respectively. 
+
+    - In the crop recommendation application, the user can provide the soil data from their side and the application will predict which crop should the user grow. 
+    
+    - For the fertilizer recommendation application, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has excess of and will recommend improvements. 
+    
+    - For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
   
 ## Project Structure
 ### The project structure includes:
