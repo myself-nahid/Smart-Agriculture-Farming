@@ -64,26 +64,22 @@ Note that, for now it only supports following crops
 </details>
 
   
-## Installation and Setup
-### To run this project locally, follow these steps:
-1.	Clone the Repository:
-```
-git clone https://github.com/myself-nahid/Smart-Agriculture-Farming.git
-cd Smart-Agriculture-Farming
-```
-2.	Install Dependencies: Install all required packages listed in requirements.txt.
-```
-pip install -r requirements.txt
-```
-3.	Run the Application: Start the Flask server.
-```
-python app.py
-```
-4.	Access the Application: Open your web browser and go to http://127.0.0.1:5000 to use the application.
-Usage
--	Crop Recommendation: Enter the soil and climate data to receive crop suggestions.
--	Fertilizer Recommendation: Input the crop type and soil properties to get fertilizer recommendations.
--	Crop Disease Prediction: Upload an image of a crop, and the system will detect potential diseases and provide diagnostic information.
+## How to run locally 🛠️
+- Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
+
+Clone the complete project with `git clone https://github.com/myself-nahid/Smart-Agriculture-Farming.git` or you can just download the code and unzip it
+- Once the project is cloned, open anaconda prompt in the directory where the project was cloned and paste the following block
+  ```
+  conda create -n Smart-Agriculture-Farming  python=3.11.4
+  conda activate Smart-Agriculture-Farming
+  pip install -r requirements.txt
+  ```
+- And finally run the project with
+  ```
+  python app.py
+  ```
+- Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
+
 ## Contributing
 Contributions are welcome! If you find any issues or have ideas for improvements, feel free to create a pull request or open an issue.
 
