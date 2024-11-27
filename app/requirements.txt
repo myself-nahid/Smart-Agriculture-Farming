@@ -1,7 +1,7 @@
-numpy
+numpy==1.26.0
 pandas
 Flask
-scikit-learn==1.2.2
+scikit-learn==1.4.2
 tensorflow       
 torch 
 torchaudio        
