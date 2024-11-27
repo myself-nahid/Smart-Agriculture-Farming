@@ -3,10 +3,15 @@ pandas
 Flask
 scikit-learn
 tensorflow       
-torch         
+torch 
+torchaudio        
 torchvision
 matplotlib        
 seaborn 
+pickle
+urllib3
+xgboost
 requests
 Pillow
+yarg
 gunicorn
