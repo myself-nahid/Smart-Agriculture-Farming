@@ -1,14 +1,13 @@
-numpy==1.26.0
+numpy
 pandas
 Flask
-scikit-learn==1.4.2
+scikit-learn
 tensorflow       
 torch 
 torchaudio        
 torchvision
 matplotlib        
 seaborn 
-pickle
 pickleshare
 pylint
 urllib3
