@@ -8,7 +8,8 @@ torchaudio
 torchvision
 matplotlib        
 seaborn 
-pickle
+pickleshare
+pylint
 urllib3
 xgboost
 requests
