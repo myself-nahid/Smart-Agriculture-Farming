@@ -2,7 +2,6 @@ numpy
 pandas
 Flask
 scikit-learn
-torch==1.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 requests
 Pillow
 gunicorn == 20.0.4
