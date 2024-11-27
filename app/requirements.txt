@@ -104,4 +104,5 @@ widgetsnbextension==3.5.1
 wrapt==1.12.1
 xgboost==1.2.1
 yarg==0.1.9
+torch==1.7.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 gunicorn == 20.0.4
